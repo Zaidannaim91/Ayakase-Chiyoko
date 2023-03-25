@@ -1,0 +1,33 @@
+{
+   "title":"[Ayakase Chiyoko] The Reason Why I Shoplifted",
+   "description":"",
+   "author":"Ayakase Chiyoko",
+   "artist":"Ayakase Chiyoko",
+   "cover":"https://i.imgur.com/f5xR6DR.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7jWRvAC"
+         },
+         "last_updated":1624606143,
+         "title":"The Reason Why I Shoplifted",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/XhZT1Mv"
+         },
+         "last_updated":1624606143,
+         "title":"The Reason Why I Shoplifted 2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/lYxnpUQ"
+         },
+         "last_updated":1624606143,
+         "title":"The Reason Why I Shoplifted 3",
+         "volume":"3"
+      }
+   }
+}
