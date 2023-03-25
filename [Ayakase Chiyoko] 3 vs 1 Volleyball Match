@@ -1,0 +1,49 @@
+{
+   "title":"[Ayakase Chiyoko] 3 vs 1 Volleyball Match",
+   "description":"",
+   "author":"Ayakase Chiyoko",
+   "artist":"Ayakase Chiyoko",
+   "cover":"https://i.imgur.com/pwT5eob.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/hYcFPuS"
+         },
+         "last_updated":1624606143,
+         "title":"3 vs 1 Volleyball Match",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zG6RMSt"
+         },
+         "last_updated":1624606143,
+         "title":"3 vs 1 Volleyball Match 2 - Home Game",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/89caY9Q"
+         },
+         "last_updated":1624606143,
+         "title":"3 vs 1 Volleyball Match 3 - Away Game",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/WcUzQ6y"
+         },
+         "last_updated":1624606143,
+         "title":"3 vs 1 Volleyball Match 4",
+         "volume":"4"
+      },
+      "5":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/D8MrwMC"
+         },
+         "last_updated":1624606143,
+         "title":"3 vs 1 Volleyball Match 5 - New Year's Match",
+         "volume":"5"
+      }
+   }
+}
